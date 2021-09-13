@@ -1,0 +1,10 @@
+title: Samyak Datta
+email: datta.samyak@gmail.com
+description: Samyak Datta's personal website
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-110470966-1
