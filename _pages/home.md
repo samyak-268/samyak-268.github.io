@@ -22,7 +22,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <p>
       I am a fifth year PhD student advised by <a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a> at Georgia Tech. I also work closely with <a href="https://www.cc.gatech.edu/~dbatra/index.html">Dhruv Batra</a>.
-      Prior to starting my PhD, I was a Research Assistant at the <a href="https://cvit.iiit.ac.in/">Center for Visual Information Technology</a> (CVIT), <a href="https://www.iiit.ac.in">IIIT-Hyderabad, India</a> working under the joint supervision of <a href="https://www.iiit.ac.in/~jawahar/">Prof. C.V. Jawahar</a> and <a href="http://www.grvsharma.com">Gaurav Sharma</a>. Before moving to Hyderabad, I was a Software Engineer at <a href="http://www.media.net/">Media.net</a> in Mumbai, India. I completed my dual degree (B. Tech + M. Tech) in Computer Science and Engineering from <a href="http://www.iitr.ac.in/">IIT Roorkee</a> in 2015.
+      Prior to starting my PhD, I was a Research Assistant at the <a href="https://cvit.iiit.ac.in/">Center for Visual Information Technology</a> (CVIT), <a href="https://www.iiit.ac.in">IIIT-Hyderabad, India</a> working under the joint supervision of <a href="https://www.iiit.ac.in/~jawahar/">Prof. C.V. Jawahar</a> and <a href="https://grvsharma.com/">Gaurav Sharma</a>. Before moving to Hyderabad, I was a Software Engineer at <a href="http://www.media.net/">Media.net</a> in Mumbai, India. I completed my dual degree (B. Tech + M. Tech) in Computer Science and Engineering from <a href="http://www.iitr.ac.in/">IIT Roorkee</a> in 2015.
     </p>
     
     <p>
@@ -250,7 +250,7 @@ acknowledgements: ""
       
       <br>
       <strong>Samyak Datta</strong>,
-      <a href="http://www.grvsharma.com">Gaurav Sharma</a> and
+      <a href="https://grvsharma.com/">Gaurav Sharma</a> and
       <a href="https://www.iiit.ac.in/~jawahar/">C.V. Jawahar</a>
       
       <br>
