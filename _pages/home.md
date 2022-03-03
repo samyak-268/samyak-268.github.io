@@ -146,11 +146,15 @@ acknowledgements: ""
       <a href="https://sameerdharur.github.io/">Sameer Dharur</a>,
       <a href="https://vincentcartillier.github.io/">Vincent Cartillier</a>,
       <a href="https://www.cs.cmu.edu/~rutad/">Ruta Desai</a>,
+      <a href="https://mukulkhanna.github.io/">Mukul Khanna</a>,
       <a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a> and
       <a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a>
       
       <br><br>
-      <em>Coming soon!</em><br>
+      <em>Computer Vision and Pattern Recognition (CVPR), 2022</em><br>
+      Coming soon!
+
+      <!-- <a href="></a> -->
     </p>
   </div>
 </div><br>
