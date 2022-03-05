@@ -43,6 +43,9 @@ acknowledgements: ""
   <div class="col-xs-12 content hideContent">
     <ul>
       <li>
+        [ Spring 2022 ] Our work on Episodic Memory Question Answering was accepted at CVPR 2022! We investigate egocentric personal AI assistants on AR-powered devices (such as smart glasses). Pre-print, code and data coming soon!
+      </li>
+      <li>
         [ Fall 2021 ] I will be serving as a reviewer for ICLR 2022, CVPR 2022.
       </li>
       <li>
